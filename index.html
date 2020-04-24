@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+      <title>Kentucky Drivers Licensing Offices</title></title>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <!--stylesheets load first-->
+      <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.6.0/leaflet.css" />
+      <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.4.1/MarkerCluster.css" />
+      <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.4.1/MarkerCluster.Default.css" />
+      <!--scripts load next-->
+      <script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js'></script>
+      <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.6.0/leaflet.js"></script>
+      <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-ajax/2.1.0/leaflet.ajax.min.js"></script>
+      <script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.4.1/leaflet.markercluster.js'></script>
+      <script type='text/javascript' src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-providers/1.9.1/leaflet-providers.min.js"></script>
+      <style>
+            body {
+                  padding: 0;
+                  margin: 0;
+            }
+
+            html,
+            body,
+            #map {
+                  height: 100%;
+                  width: 100%;
+            }
+      </style>
+</head>
+
+<body>
+      <h1>Kentucky Drivers' Licensing Offices</h1>
+      <!--here's the map container-->
+      <div id="map"></div>
+      <script>
+            //set map view start
+            var map = L.map('map', {
+                  center: [37.7031, -85.8649],
+                  zoom: 7,
+                  minZoom: 4,
+                  maxZoom: 18
+            });
+            //end
+            //add stadia map tiles
+            L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_smooth/{z}/{x}/{y}{r}.png', {
+                  maxZoom: 20,
+                  attribution: '&copy; <a href="https://stadiamaps.com/">Stadia Maps</a>, &copy; <a href="https://openmaptiles.org/">OpenMapTiles</a> &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors',
+            }).addTo(map);
+
+            //add county lines
+            function style(feature){
+                  return {
+                        color: 'gray',
+                        opacity: .5,
+                        weight: 1,
+                        fillOpacity: 0
+                  };
+            }
+            var url3 = "data_tidy/ky_county_lines.json"
+            var county_lines = L.geoJSON(null, {
+                  style: style
+            });
+            $.getJSON(url3, function(data){
+                  county_lines.addData(data);
+            });
+            county_lines.addTo(map)
+                        //L.geoJSON("data_pure/Ky_County_Lines/Ky_County_Lines.shp").addTo(map)
+
+
+            //add file location--home directory
+            var url1 = "data_tidy/ky_courthouses.geojson";
+
+            //add icon for a marker
+            var Icon1 = L.icon({
+                  iconUrl: 'img/steering_wheel_1.png',
+                  //shadowUrl: 'mic_shadow.png',
+
+                  iconSize: [20, 20], // size of the icon
+                  shadowSize: [4, 8], // size of the shadow
+                  iconAnchor: [7, 21], // point of the icon which will correspond to marker's location
+                  shadowAnchor: [0, 5], // the same for the shadow
+                  popupAnchor: [10, -20] // point from which the popup should open relative to the iconAnchor
+                  //popupAnchor: [-3, -76] // point from which the popup should open relative to the iconAnchor
+            });
+            //create function to run through each observation
+            function forEachFeature_1(feature, layer) {
+
+                  var popupContent =
+                        "<b>Office:</b> " + feature.properties.courthouse;
+
+                  if (feature.properties && feature.properties.popupContent) {
+                        popupContent += feature.properties.popupContent;
+                  }
+                  layer.bindPopup(popupContent);
+            };
+            //place each icon on the map
+            var office = L.geoJSON(null, {
+                  onEachFeature: forEachFeature_1,
+                  pointToLayer: function(feature, latlng) {
+                        //return L.circleMarker(latlng, geojsonMarkerOptions);
+                        return L.marker(latlng, {
+                              icon: Icon1
+                        });
+                  }
+            });
+
+            // Get GeoJSON data from file and create features.
+            $.getJSON(url1, function(data) {
+                  office.addData(data);
+            });
+            office.addTo(map);
+
+            var url2 = "data_tidy/kytc_geocoded.geojson";
+
+            var Icon2 = L.icon({
+                  iconUrl: 'img/steering_wheel_2.png',
+                  //shadowUrl: 'mic_shadow.png',
+
+                  iconSize: [40, 40], // size of the icon
+                  shadowSize: [4, 8], // size of the shadow
+                  iconAnchor: [7, 21], // point of the icon which will correspond to marker's location
+                  shadowAnchor: [0, 5], // the same for the shadow
+                  popupAnchor: [10, -20] // point from which the popup should open relative to the iconAnchor
+                  //popupAnchor: [-3, -76] // point from which the popup should open relative to the iconAnchor
+            });
+            //create function to run through each observation
+            function forEachFeature_2(feature, layer) {
+
+                  var popupContent =
+                        "<b>Office:</b> " + feature.properties.agency;
+
+                  if (feature.properties && feature.properties.popupContent) {
+                        popupContent += feature.properties.popupContent;
+                  }
+                  layer.bindPopup(popupContent);
+            };
+            //place each icon on the map
+            var kytc = L.geoJSON(null, {
+                  onEachFeature: forEachFeature_2,
+                  pointToLayer: function(feature, latlng) {
+                        //return L.circleMarker(latlng, geojsonMarkerOptions);
+                        return L.marker(latlng, {
+                              icon: Icon2
+                        });
+                  }
+            });
+            $.getJSON(url2, function(data) {
+                  kytc.addData(data);
+            });
+            kytc.addTo(map);
+
+
+      </script>
+
+</body>
+
+</html>
