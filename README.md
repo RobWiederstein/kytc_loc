@@ -12,11 +12,15 @@ Recent legislative action in Kentucky and other states regarding drivers' licens
 
 The federal government may reject a state issued personal identification card when it is presented for an official purpose. "Official purpose" includes the boarding of a commercial aircraft, entering federal facilities, and entering nuclear power plants.
 
-Because of The Real ID Act's wide ranging impact on transportation, states have come under increased pressure to upgrade their licensing procedures to meet the new federal standard. Compliance with the act was recently extended to October 21, because of the covid-19 pandemic. The Department for Homeland Security has published extensive information that can be found [here](https://www.dhs.gov/real-id)
+Because of The Real ID Act's wide ranging impact on transportation, states have come under increased pressure to upgrade their licensing procedures to meet the new federal standard. Compliance with the act was recently extended to October 21, because of the covid-19 pandemic. The Department for Homeland Security has published extensive information that can be found [here](https://www.dhs.gov/real-id).
 
 ## HB 453
 
-On March 27, Governor Beshear signed HB 453 into law. The bill vests KYTC with the exclusive responsibility for issuing operator's licenses and personal identification cards. Residents will no longer be requiired to apply for these documents in their county of residence. The bill will also expand the number of documents an applicant can use when applying for a license and allows for people to chose between four to eight years before renewal. Circuit clerk's offices will continue issuing standard--but not Real IDs--identification credentials until the KYTC determines that one of their 18 to 24 budgeted regional offices are capable of assuming all issuance duties. All Circuit Courts will be required to cease issuing licenses and personal ID cards by June 30, 2022\. # Built With The visualization was built with [Leaflet.js](https://leafletjs.com). <!-- CONTRIBUTING -->
+On March 27, Governor Beshear signed HB 453 into law. The bill vests KYTC with the exclusive responsibility for issuing operator's licenses and personal identification cards. Residents will no longer be required to apply for these documents in their county of residence. The bill will also expand the number of documents an applicant can use when applying for a license and allows for people to choose between four to eight years before renewal. Circuit clerks' offices will continue issuing standard--but not Real IDs--identification credentials until the KYTC determines that one of its 18 to 24 budgeted regional offices are capable of assuming all issuance duties. All Circuit Court Clerks will be required to cease issuing licenses and personal ID cards by June 30, 2022.
+
+# Built With
+
+The visualization was built with [Leaflet.js](https://leafletjs.com).
 
 # License
 
@@ -28,9 +32,7 @@ Rob Wiederstein - [@https://twitter.com/RobWiederstein](https://twitter.com/your
 
 Project Link: <https://github.com/RobWiederstein/hip_hop_artists>
 
-<!-- ACKNOWLEDGEMENTS -->
-
- # Acknowledgements
+# Acknowledgements
 
 - [Kentucky Administrative Office of the Courts](https://kycourts.gov/aoc/pages/default.aspx)
 - [Kentucky Transportation Cabinet](https://transportation.ky.gov/Pages/Home.aspx)
