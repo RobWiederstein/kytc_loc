@@ -52,9 +52,9 @@ vignettes/*.pdf
 data_raw/*.csv
 
 # data output files
-data_tidy/*.geojson
-data_tidy/*.csv
-data_tidy/*.json
+#data_tidy/*.geojson
+#data_tidy/*.csv
+#data_tidy/*.json
 
 #data output files charts
 figs/*.jpg

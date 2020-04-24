@@ -1,0 +1,1538 @@
+{
+      "type": "FeatureCollection",
+      "features": [{
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Adair County Judicial Center",
+                  "addresses": "201 Campbellsville St., Columbia, KY 42728",
+                  "lon": "-85.3048187",
+                  "lat": "37.1041983",
+                  "geoAddress": "201 campbellsville st, columbia, ky 42728, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-85.3048187, 37.1041983]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Allen County Judicial Center",
+                  "addresses": "200 W. Main St., Scottsville, KY 42164",
+                  "lon": "-86.1916045",
+                  "lat": "36.7532742",
+                  "geoAddress": "200 w main st, scottsville, ky 42164, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-86.1916045, 36.7532742]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Anderson County Courthouse",
+                  "addresses": "151 S. Main St., Lawrenceburg, KY 40342",
+                  "lon": "-84.8957562",
+                  "lat": "38.0355518",
+                  "geoAddress": "151 s main st, lawrenceburg, ky 40342, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-84.8957562, 38.0355518]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Ballard County Courthouse",
+                  "addresses": "132 N. Fourth St.,  Wickliffe, KY 42087",
+                  "lon": "-89.0885601",
+                  "lat": "36.9652737",
+                  "geoAddress": "132 4th st, wickliffe, ky 42087, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-89.0885601, 36.9652737]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Barren County Courthouse",
+                  "addresses": "100 Courthouse Square,  Glasgow, KY 42141",
+                  "lon": "-85.9128425",
+                  "lat": "36.9962949",
+                  "geoAddress": "100 court house square, glasgow, ky 42141, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-85.9128425, 36.9962949]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Bath County Courthouse Annex",
+                  "addresses": "19 E. Main St.,  Owingsville, KY 40360",
+                  "lon": "-83.7637171",
+                  "lat": "38.144598",
+                  "geoAddress": "19 e main st, owingsville, ky 40360, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-83.7637171, 38.144598]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Farmer Helton Judicial Center",
+                  "addresses": "101 W. Park Ave.,  Pineville, KY 40977",
+                  "lon": "-83.6964144",
+                  "lat": "36.7600802",
+                  "geoAddress": "101 park ave, pineville, ky 40977, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-83.6964144, 36.7600802]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Boone County Justice Center",
+                  "addresses": "6025 Rogers Lane, Room 141, Burlington, KY 41005",
+                  "lon": "-84.7239372",
+                  "lat": "39.0269506",
+                  "geoAddress": "6025 rogers ln #141, burlington, ky 41005, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-84.7239372, 39.0269506]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Bourbon County Judicial Center",
+                  "addresses": "310 Main St., Paris, KY 40361",
+                  "lon": "-84.2491582",
+                  "lat": "38.2126528",
+                  "geoAddress": "310 main st, paris, ky 40361, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-84.2491582, 38.2126528]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Boyd County Judicial Center",
+                  "addresses": "2805 Louisa Street, Catletsburg, KY 41129",
+                  "lon": "-82.5979816",
+                  "lat": "38.415774",
+                  "geoAddress": "2805 louisa rd, catlettsburg, ky 41129, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-82.5979816, 38.415774]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Boyle County Courthouse",
+                  "addresses": "321 W. Main St., Danville, KY 40422",
+                  "lon": "-84.7733732",
+                  "lat": "37.6464951",
+                  "geoAddress": "321 w main st, danville, ky 40422, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-84.7733732, 37.6464951]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Bracken County Judicial Center",
+                  "addresses": "132 W. Miami St.,  Brooksville, KY 41004",
+                  "lon": "-84.0676974",
+                  "lat": "38.6835061",
+                  "geoAddress": "132 miami st, brooksville, ky 41004, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-84.0676974, 38.6835061]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Breathitt County Justice Center",
+                  "addresses": "1131 Main St., Jackson, KY 41339",
+                  "lon": "-83.3844182",
+                  "lat": "37.5534391",
+                  "geoAddress": "1131 main st, jackson, ky 41339, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-83.3844182, 37.5534391]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Breckinridge County Justice Center",
+                  "addresses": "111 W. 2nd St.,  Hardinsburg, KY 40143",
+                  "lon": "-86.4620241",
+                  "lat": "37.7811315",
+                  "geoAddress": "111 2nd st, hardinsburg, ky 40143, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-86.4620241, 37.7811315]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Bullitt County Judicial Center",
+                  "addresses": "250 Frank E. Simon Ave.,  Shepherdsville, KY 40165",
+                  "lon": "-85.7152998",
+                  "lat": "37.9882411",
+                  "geoAddress": "250 frank e simon ave, shepherdsville, ky 40165, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-85.7152998, 37.9882411]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Butler County Courthouse",
+                  "addresses": "110 N. Main St.,  Morgantown, KY 42261",
+                  "lon": "-86.6829608",
+                  "lat": "37.2253382",
+                  "geoAddress": "110 n main st, morgantown, ky 42261, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-86.6829608, 37.2253382]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Caldwell County Courthouse Annex",
+                  "addresses": "105 W. Court Square, Princeton, KY 42445",
+                  "lon": "-87.8819594",
+                  "lat": "37.1092162",
+                  "geoAddress": "105 w court square, princeton, ky 42445, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-87.8819594, 37.1092162]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Calloway County Judicial Building",
+                  "addresses": "312 N. 4th St., Murray, KY 42071",
+                  "lon": "-88.3016804",
+                  "lat": "36.6137877",
+                  "geoAddress": "312 n 4th st, murray, ky 42071, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-88.3016804, 36.6137877]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Campbell County Courthouse",
+                  "addresses": "330 York St., Newport, KY 41071",
+                  "lon": "-84.4971868",
+                  "lat": "39.092173",
+                  "geoAddress": "330 york st, newport, ky 41071, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-84.4971868, 39.092173]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Carlisle County Courthouse",
+                  "addresses": "985 U.S. Highway 62, Bardwell, KY 42023",
+                  "lon": "-89.0000215",
+                  "lat": "36.8829289",
+                  "geoAddress": "985 us-62, bardwell, ky 42023, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-89.0000215, 36.8829289]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "William L. Wheeler Hall of Justice",
+                  "addresses": "802 Clay St., Carrollton, KY 41008",
+                  "lon": "-85.1732464",
+                  "lat": "38.6771508",
+                  "geoAddress": "802 clay st, carrollton, ky 41008, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-85.1732464, 38.6771508]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Carter County Justice Center",
+                  "addresses": "100 E. Main St., Grayson, KY 41143",
+                  "lon": "-82.948573",
+                  "lat": "38.3328208",
+                  "geoAddress": "100 e main st, grayson, ky 41143, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-82.948573, 38.3328208]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Casey County Judicial Center",
+                  "addresses": "231 Courthouse Square, Liberty, KY 42539",
+                  "lon": "-84.940872",
+                  "lat": "37.3179019",
+                  "geoAddress": "231 court house square, liberty, ky 42539, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-84.940872, 37.3179019]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Christian County Justice Center",
+                  "addresses": "100 Justice Way, Hopkinsville, KY 42240",
+                  "lon": "-87.4909",
+                  "lat": "36.8674",
+                  "geoAddress": "100 justice way, hopkinsville, ky 42240, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-87.4909, 36.8674]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Governor James Clark Judicial Center",
+                  "addresses": "17 Cleveland Ave.,  Winchester, KY 40392",
+                  "lon": "-84.177678",
+                  "lat": "37.9934345",
+                  "geoAddress": "17 cleveland ave, winchester, ky 40391, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-84.177678, 37.9934345]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Clay County Justice Center",
+                  "addresses": "316 Main St., Manchester, KY 40962-1377",
+                  "lon": "-83.761054",
+                  "lat": "37.156335",
+                  "geoAddress": "316 main st, manchester, ky 40962, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-83.761054, 37.156335]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Clinton County Courthouse",
+                  "addresses": "100 S. Cross St., Albany, KY 42602",
+                  "lon": "-85.135498",
+                  "lat": "36.6905426",
+                  "geoAddress": "100 s n cross st suite 103, albany, ky 42602, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-85.135498, 36.6905426]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Crittenden County Courthouse",
+                  "addresses": "107 S. Main St., Marion, KY 42064",
+                  "lon": "-88.0817938",
+                  "lat": "37.3326316",
+                  "geoAddress": "107 s main st, marion, ky 42064, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-88.0817938, 37.3326316]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Cumberland County Justice Center",
+                  "addresses": "112 Courthouse Square,  Burkesville, KY 42717-0395,",
+                  "lon": "-85.3705186",
+                  "lat": "36.7903399",
+                  "geoAddress": "112 court house square, burkesville, ky 42717, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-85.3705186, 36.7903399]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Holbrook Judicial Center",
+                  "addresses": "100 E. 2nd St.,  Owensboro, KY 42302-0277",
+                  "lon": "-87.1107356",
+                  "lat": "37.7746836",
+                  "geoAddress": "100 e 2nd st, owensboro, ky 42303, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-87.1107356, 37.7746836]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Edmonson County Courthouse Annex",
+                  "addresses": "110 Cross Main St.,  Brownsville, KY 42210-0739",
+                  "lon": "-86.2730945",
+                  "lat": "37.1911019",
+                  "geoAddress": "110 main cross st, brownsville, ky 42210, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-86.2730945, 37.1911019]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Elliott County Courthouse Annex",
+                  "addresses": "100 Main and Jane Caudill Sts., Sandy Hook, KY 41171",
+                  "lon": "-83.1262839",
+                  "lat": "38.0864739",
+                  "geoAddress": "sandy hook, ky 41171, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-83.1262839, 38.0864739]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Estill County Courthouse",
+                  "addresses": "130 Main St., Irvine, KY 40336",
+                  "lon": "-83.9748809",
+                  "lat": "37.7003351",
+                  "geoAddress": "130 main st, irvine, ky 40336, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-83.9748809, 37.7003351]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Fleming County Judicial Center",
+                  "addresses": "101 North Main Cross St., Flemingsburg, KY 41041",
+                  "lon": "-83.7335481",
+                  "lat": "38.4221112",
+                  "geoAddress": "101 n main cross st, flemingsburg, ky 41041, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-83.7335481, 38.4221112]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Floyd County Justice Center",
+                  "addresses": "127 S. Lake Drive, Prestonsburg, KY 41653",
+                  "lon": "-82.7398916",
+                  "lat": "37.6681219",
+                  "geoAddress": "127 s lake dr, prestonsburg, ky 41653, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-82.7398916, 37.6681219]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Franklin County Courthouse",
+                  "addresses": "222 St. Clair Street, Frankfort, KY 40601",
+                  "lon": "-84.8785809",
+                  "lat": "38.1982567",
+                  "geoAddress": "222 st clair st, frankfort, ky 40601, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-84.8785809, 38.1982567]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Fulton County Courthouse",
+                  "addresses": "114 E. Wellington St.,  Hickman, KY 42050",
+                  "lon": "-89.1944733",
+                  "lat": "36.5711212",
+                  "geoAddress": "114 wellington st, hickman, ky 42050, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-89.1944733, 36.5711212]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Gallatin County Courthouse",
+                  "addresses": "100 Main St.,  Warsaw, KY 41095",
+                  "lon": "-84.9017125",
+                  "lat": "38.7835657",
+                  "geoAddress": "100 w main st, warsaw, ky 41095, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-84.9017125, 38.7835657]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Garrard County Justice Center",
+                  "addresses": "54 Stanford Street, Lancaster, KY 40444",
+                  "lon": "-84.5787977",
+                  "lat": "37.6187963",
+                  "geoAddress": "54 stanford st, lancaster, ky 40444, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-84.5787977, 37.6187963]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Grant County Judicial Center",
+                  "addresses": "224 S. Main St., First Floor, Williamstown, KY 41097",
+                  "lon": "-84.5623855",
+                  "lat": "38.6351283",
+                  "geoAddress": "224 s main st, williamstown, ky 41097, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-84.5623855, 38.6351283]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Graves County Courthouse",
+                  "addresses": "100 E. Broadway, Mayfield, KY 42066",
+                  "lon": "-88.6357544",
+                  "lat": "36.7416276",
+                  "geoAddress": "100 e broadway, mayfield, ky 42066, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-88.6357544, 36.7416276]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Grayson County Judicial Center",
+                  "addresses": "500 Carroll Gibson Blvd., Leitchfield, KY 42754",
+                  "lon": "-86.2883159",
+                  "lat": "37.4775565",
+                  "geoAddress": "500 carroll gibson blvd, leitchfield, ky 42754, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-86.2883159, 37.4775565]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Green County Judicial Center",
+                  "addresses": "200 W. Court St., Greensburg, KY 42743",
+                  "lon": "-85.50308",
+                  "lat": "37.2611948",
+                  "geoAddress": "200 w court st, greensburg, ky 42743, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-85.50308, 37.2611948]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Greenup County Courthouse Annex",
+                  "addresses": "101 Harrison St., Greenup, KY 41144",
+                  "lon": "-82.8355706",
+                  "lat": "38.5782823",
+                  "geoAddress": "101 harrison st, greenup, ky 41144, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-82.8355706, 38.5782823]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Hancock County Judicial Center",
+                  "addresses": "310 Hawesville School Dr.,  Hawesville, KY 42348-0250",
+                  "lon": "-86.7487561",
+                  "lat": "37.8989047",
+                  "geoAddress": "310 hawesville school dr, hawesville, ky 42348, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-86.7487561, 37.8989047]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Hardin County Justice Center",
+                  "addresses": "120 E. Dixie Ave., Elizabethtown, KY 42701",
+                  "lon": "-85.8571803",
+                  "lat": "37.6921532",
+                  "geoAddress": "120 e dixie ave, elizabethtown, ky 42701, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-85.8571803, 37.6921532]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Harlan County Justice Center",
+                  "addresses": "129 S. 1st St., Harlan, KY 40831",
+                  "lon": "-83.321753",
+                  "lat": "36.8457639",
+                  "geoAddress": "129 s 1st st, harlan, ky 40831, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-83.321753, 36.8457639]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Harrison County Justice Center",
+                  "addresses": "115 Court St., Cynthiana, KY 41031",
+                  "lon": "-84.298724",
+                  "lat": "38.3893942",
+                  "geoAddress": "115 joe b hall ct, cynthiana, ky 41031, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-84.298724, 38.3893942]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Hart County Judicial Center",
+                  "addresses": "117 E. South St.,  Munfordville, KY 42765",
+                  "lon": "-85.8889957",
+                  "lat": "37.2715727",
+                  "geoAddress": "117 e south st, munfordville, ky 42765, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-85.8889957, 37.2715727]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Henderson County Judicial Center",
+                  "addresses": "5 N. Main St., Henderson, KY 42420",
+                  "lon": "-87.5933709",
+                  "lat": "37.8390305",
+                  "geoAddress": "5 n main st, henderson, ky 42420, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-87.5933709, 37.8390305]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Henry County Courthouse",
+                  "addresses": "125 E. Broadway, Eminence, KY 40019",
+                  "lon": "-85.1794725",
+                  "lat": "38.3689768",
+                  "geoAddress": "125 e broadway, eminence, ky 40019, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-85.1794725, 38.3689768]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Hickman County Courthouse Annex",
+                  "addresses": "109 S. Washington St., Clinton, KY 42031",
+                  "lon": "-88.9934287",
+                  "lat": "36.6669935",
+                  "geoAddress": "109 s washington st, clinton, ky 42031, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-88.9934287, 36.6669935]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Hopkins County Justice Center",
+                  "addresses": "120 E. Center St., Madisonville, KY 42431",
+                  "lon": "-87.4965281",
+                  "lat": "37.3270381",
+                  "geoAddress": "120 e center st, madisonville, ky 42431, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-87.4965281, 37.3270381]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Jackson County Judicial Center",
+                  "addresses": "100 First St.,  McKee, KY 40447",
+                  "lon": "-83.9973562",
+                  "lat": "37.4303824",
+                  "geoAddress": "100 1st st, mckee, ky 40447, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-83.9973562, 37.4303824]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Jessamine County Court Complex",
+                  "addresses": "107 N. Main St., Nicholasville, KY 40356",
+                  "lon": "-84.5730283",
+                  "lat": "37.8811519",
+                  "geoAddress": "107 n main st, nicholasville, ky 40356, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-84.5730283, 37.8811519]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Johnson County Judicial Center",
+                  "addresses": "908 3rd St., Paintsville, KY 41240",
+                  "lon": "-82.8282268",
+                  "lat": "37.825378",
+                  "geoAddress": "908 3rd st, paintsville, ky 41240, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-82.8282268, 37.825378]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Kenton County Justice Center",
+                  "addresses": "230 Madison Ave, Covington, KY 41011",
+                  "lon": "-84.510867",
+                  "lat": "39.088532",
+                  "geoAddress": "230 madison ave, covington, ky 41011, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-84.510867, 39.088532]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Knott County Judicial Center",
+                  "addresses": "53 W. Main St.,  Hindman, KY 41822",
+                  "lon": "-82.9816903",
+                  "lat": "37.3348208",
+                  "geoAddress": "53 w main st, hindman, ky 41822, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-82.9816903, 37.3348208]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Knox County Courthouse Annex",
+                  "addresses": "401 Court Square,  Barbourville, KY 40906",
+                  "lon": "-83.8886294",
+                  "lat": "36.8664801",
+                  "geoAddress": "401 court square, barbourville, ky 40906, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-83.8886294, 36.8664801]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "LaRue County Courthouse Annex",
+                  "addresses": "209 W. High St.,  Hodgenville, KY 42748",
+                  "lon": "-85.7422346",
+                  "lat": "37.5720143",
+                  "geoAddress": "209 w high st, hodgenville, ky 42748, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-85.7422346, 37.5720143]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Laurel County Judicial Center",
+                  "addresses": "305 S. Main St.,  London, KY 40741",
+                  "lon": "-84.0825497",
+                  "lat": "37.1271407",
+                  "geoAddress": "305 s main st, london, ky 40741, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-84.0825497, 37.1271407]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Lawrence County Judicial Center",
+                  "addresses": "29 Riverbend Road, Louisa, KY 41230",
+                  "lon": "-82.6258337",
+                  "lat": "38.1151615",
+                  "geoAddress": "29 riverbend rd, louisa, ky 41230, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-82.6258337, 38.1151615]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Lee County Courthouse",
+                  "addresses": "256 Main St., 2nd Floor,  Beattyville, KY 41311",
+                  "lon": "-83.7099553",
+                  "lat": "37.5736681",
+                  "geoAddress": "256 main st 2nd floor, beattyville, ky 41311, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-83.7099553, 37.5736681]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Leslie County Courthouse",
+                  "addresses": "22010 Main St.,  Hyden, KY 41749",
+                  "lon": "-83.3741242",
+                  "lat": "37.1625038",
+                  "geoAddress": "22010 main st, hyden, ky 41749, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-83.3741242, 37.1625038]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Letcher County Courthouse",
+                  "addresses": "156 Main St., Whitesburg, KY 41858",
+                  "lon": "-82.8267824",
+                  "lat": "37.1180153",
+                  "geoAddress": "156 main st, whitesburg, ky 41858, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-82.8267824, 37.1180153]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Lewis County Justice Center",
+                  "addresses": "94 Second St.,  Vanceburg, KY 41179",
+                  "lon": "-83.3166818",
+                  "lat": "38.6009435",
+                  "geoAddress": "94 2nd st, vanceburg, ky 41179, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-83.3166818, 38.6009435]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Lincoln County Judicial Center",
+                  "addresses": "101 E. Main St., Stanford, KY 40484",
+                  "lon": "-84.6614695",
+                  "lat": "37.5290575",
+                  "geoAddress": "101 e main st, stanford, ky 40484, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-84.6614695, 37.5290575]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Livingston County Justice Center",
+                  "addresses": "122 West Adair Street,  Smithland, KY 42081",
+                  "lon": "-88.4051085",
+                  "lat": "37.1398111",
+                  "geoAddress": "122 adair st, smithland, ky 42081, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-88.4051085, 37.1398111]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Logan County Court of Justice",
+                  "addresses": "329 W. 4th St.,  Russellville, KY 42276",
+                  "lon": "-86.890582",
+                  "lat": "36.8441916",
+                  "geoAddress": "329 w 4th st, russellville, ky 42276, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-86.890582, 36.8441916]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Lyon County Judicial Center",
+                  "addresses": "500 West Dale Avenue,  Eddyville, KY 42038",
+                  "lon": "-88.0844773",
+                  "lat": "37.0906887",
+                  "geoAddress": "500 w dale ave, eddyville, ky 42038, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-88.0844773, 37.0906887]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "McCracken County Courthouse",
+                  "addresses": "300 Clarence Gaines St., Paducah, KY 42003",
+                  "lon": "-88.5994751",
+                  "lat": "37.0826863",
+                  "geoAddress": "300 clarence gaines street, paducah, ky 42003, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-88.5994751, 37.0826863]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "McCreary County Courthouse",
+                  "addresses": "1 N. Main St.,  Whitley City, KY 42653",
+                  "lon": "-84.47036",
+                  "lat": "36.7257276",
+                  "geoAddress": "1 main st, whitley city, ky 42653, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-84.47036, 36.7257276]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "McLean County Courthouse Annex",
+                  "addresses": "210 E. Main St.,  Calhoun, KY 42327",
+                  "lon": "-87.2578684",
+                  "lat": "37.5374686",
+                  "geoAddress": "210 main st, calhoun, ky 42327, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-87.2578684, 37.5374686]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Madison County Courthouse",
+                  "addresses": "101 W. Main St.,  Richmond, KY 40475",
+                  "lon": "-84.2944511",
+                  "lat": "37.747933",
+                  "geoAddress": "101 w main st, richmond, ky 40475, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-84.2944511, 37.747933]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Magoffin County Justice Center",
+                  "addresses": "100 E. Maple St.,  Salyersville, KY 41465",
+                  "lon": "-83.0586727",
+                  "lat": "37.7551294",
+                  "geoAddress": "100 e maple st, salyersville, ky 41465, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-83.0586727, 37.7551294]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Marion County Judicial Center",
+                  "addresses": "121 N. Spalding Ave., Lebanon, KY 40033",
+                  "lon": "-85.2524682",
+                  "lat": "37.5700474",
+                  "geoAddress": "121 n spalding ave, lebanon, ky 40033, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-85.2524682, 37.5700474]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Marshall County Judicial Building",
+                  "addresses": "80 Judicial Drive, Unit 101, Benton, KY 42025",
+                  "lon": "-88.3566701",
+                  "lat": "36.8667321",
+                  "geoAddress": "80 judicial dr, benton, ky 42025, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-88.3566701, 36.8667321]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Martin County Courthouse",
+                  "addresses": "14 Court St., Inez, KY 41224",
+                  "lon": "-82.5384629",
+                  "lat": "37.8657277",
+                  "geoAddress": "14 court st, inez, ky 41224, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-82.5384629, 37.8657277]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Mason County Justice Center",
+                  "addresses": "100 W. 3rd St., Maysville, KY 41056",
+                  "lon": "-83.7675611",
+                  "lat": "38.647555",
+                  "geoAddress": "100 w 3rd st, maysville, ky 41056, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-83.7675611, 38.647555]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Meade County Courthouse",
+                  "addresses": "516 Hillcrest Drive, Brandenburg, KY 40108",
+                  "lon": "-86.1731295",
+                  "lat": "38.0004807",
+                  "geoAddress": "516 hillcrest dr, brandenburg, ky 40108, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-86.1731295, 38.0004807]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Menifee County Courthouse",
+                  "addresses": "12 Main St.,  Frenchburg, KY 40322",
+                  "lon": "-83.6268201",
+                  "lat": "37.9516983",
+                  "geoAddress": "12 main st, frenchburg, ky 40322, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-83.6268201, 37.9516983]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Mercer County Judicial Center",
+                  "addresses": "224 S. Main St., Harrodsburg, KY 40330",
+                  "lon": "-84.8440644",
+                  "lat": "37.7604618",
+                  "geoAddress": "224 s main st, harrodsburg, ky 40330, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-84.8440644, 37.7604618]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Metcalfe County Courthouse",
+                  "addresses": "201 E. Stockton St.,  Edmonton, KY 42129",
+                  "lon": "-85.6108022",
+                  "lat": "36.9800026",
+                  "geoAddress": "201 e stockton st, edmonton, ky 42129, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-85.6108022, 36.9800026]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Monroe County Justice Center",
+                  "addresses": "300 N. Main St., Tompkinsville, KY 42167",
+                  "lon": "-85.6914787",
+                  "lat": "36.7017036",
+                  "geoAddress": "300 n main st, tompkinsville, ky 42167, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-85.6914787, 36.7017036]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Montgomery County Courthouse",
+                  "addresses": "One Court St.,  Mt. KY 40353",
+                  "lon": "-83.9382419",
+                  "lat": "38.0553762",
+                  "geoAddress": "132 s queen st, mt sterling, ky 40353, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-83.9382419, 38.0553762]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Morgan County Judicial Center",
+                  "addresses": "261 Court St., West Liberty, KY 41472",
+                  "lon": "-83.2596073",
+                  "lat": "37.9200803",
+                  "geoAddress": "261 court st, west liberty, ky 41472, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-83.2596073, 37.9200803]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Muhlenberg County Judicial Building",
+                  "addresses": "136 S. Main St.,  Greenville, KY 42345",
+                  "lon": "-87.1778034",
+                  "lat": "37.2000265",
+                  "geoAddress": "136 s main st, greenville, ky 42345, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-87.1778034, 37.2000265]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Nelson County Justice Center",
+                  "addresses": "200 Nelson County Plaza, Bardstown, KY 40004",
+                  "lon": "-85.4508183",
+                  "lat": "37.8079523",
+                  "geoAddress": "200 plaza dr, bardstown, ky 40004, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-85.4508183, 37.8079523]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Nicholas County Courthouse",
+                  "addresses": "125 E. Main St., Carlisle, KY 40311",
+                  "lon": "-84.028537",
+                  "lat": "38.3123377",
+                  "geoAddress": "125 e main st, carlisle, ky 40311, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-84.028537, 38.3123377]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Ohio County Community Center",
+                  "addresses": "130 E. Washington St.,  Hartford, KY 42347",
+                  "lon": "-86.9068636",
+                  "lat": "37.4505687",
+                  "geoAddress": "130 e washington st, hartford, ky 42347, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-86.9068636, 37.4505687]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Oldham County Courthouse",
+                  "addresses": "100 W. Main St., La Grange, KY 40031",
+                  "lon": "-85.3796468",
+                  "lat": "38.4079251",
+                  "geoAddress": "100 w main st, la grange, ky 40031, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-85.3796468, 38.4079251]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Owen County Judicial Center",
+                  "addresses": "401 S. Main St.,  Owenton, KY 40359",
+                  "lon": "-84.8321316",
+                  "lat": "38.5317342",
+                  "geoAddress": "401 main st, owenton, ky 40359, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-84.8321316, 38.5317342]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Owsley County Courthouse",
+                  "addresses": "20 Main St.,  Booneville, KY 41314",
+                  "lon": "-83.6756897",
+                  "lat": "37.4765107",
+                  "geoAddress": "20 main st, booneville, ky 41314, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-83.6756897, 37.4765107]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Pendleton County Judicial Center",
+                  "addresses": "120 Ridgeway Ave., U.S. Hwy. 27,  Falmouth, KY 41040",
+                  "lon": "-84.3322851",
+                  "lat": "38.6660542",
+                  "geoAddress": "120 ridgeway ave, falmouth, ky 41040, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-84.3322851, 38.6660542]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Perry County Hall of Justice",
+                  "addresses": "545 Main St.,  Hazard, KY 41702",
+                  "lon": "-83.1954932",
+                  "lat": "37.2490553",
+                  "geoAddress": "545 main st, hazard, ky 41701, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-83.1954932, 37.2490553]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Pike County Judicial Center",
+                  "addresses": "175 Main St.,  Pikeville, KY 41502",
+                  "lon": "-82.5174945",
+                  "lat": "37.480312",
+                  "geoAddress": "175 main st, pikeville, ky 41501, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-82.5174945, 37.480312]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Powell County Courthouse",
+                  "addresses": "525 Washington St.,  Stanton, KY 40380",
+                  "lon": "-83.8597662",
+                  "lat": "37.8531623",
+                  "geoAddress": "525 washington st, stanton, ky 40380, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-83.8597662, 37.8531623]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Pulaski County Court of Justice",
+                  "addresses": "50 Public Square,  Somerset, KY 42502-0664",
+                  "lon": "-84.6049861",
+                  "lat": "37.0923674",
+                  "geoAddress": "50 public square, somerset, ky 42501, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-84.6049861, 37.0923674]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Robertson County Judicial Center",
+                  "addresses": "127 E. Walnut St.,  Mt. Olivet, KY 41064",
+                  "lon": "-84.0355303",
+                  "lat": "38.5315503",
+                  "geoAddress": "127 e walnut st, mt olivet, ky 41064, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-84.0355303, 38.5315503]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Rockcastle County Courthouse Annex",
+                  "addresses": "205 E. Main St., Room 102, Mt. Vernon, KY 40456",
+                  "lon": "-84.3368737",
+                  "lat": "37.3521709",
+                  "geoAddress": "205 e main st #102, mt vernon, ky 40456, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-84.3368737, 37.3521709]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Rowan County Judicial Center",
+                  "addresses": "700 W. Main St., Morehead, KY 40351",
+                  "lon": "-83.4392132",
+                  "lat": "38.1747819",
+                  "geoAddress": "700 w main st, morehead, ky 40351, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-83.4392132, 38.1747819]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Russell County Judicial Center",
+                  "addresses": "202 Monument Square, Jamestown, KY 42629",
+                  "lon": "-85.0625736",
+                  "lat": "36.9850616",
+                  "geoAddress": "202 monument sq # 106, jamestown, ky 42629, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-85.0625736, 36.9850616]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Scott County Justice Center",
+                  "addresses": "119 N. Hamilton St., Georgetown, KY 40324",
+                  "lon": "-84.5583108",
+                  "lat": "38.2107743",
+                  "geoAddress": "119 n hamilton st, georgetown, ky 40324, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-84.5583108, 38.2107743]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Shelby County Judicial Center",
+                  "addresses": "401 Main St., Shelbyville, KY 40065",
+                  "lon": "-85.2145779",
+                  "lat": "38.2111388",
+                  "geoAddress": "401 main st, shelbyville, ky 40065, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-85.2145779, 38.2111388]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Simpson County Justice Center",
+                  "addresses": "101 N. Court St., Franklin, KY 42134",
+                  "lon": "-86.5772149",
+                  "lat": "36.7222208",
+                  "geoAddress": "101 n court st, franklin, ky 42134, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-86.5772149, 36.7222208]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Spencer County Courthouse Annex",
+                  "addresses": "27 E. Main St.,  Taylorsville, KY 40071",
+                  "lon": "-85.3446849",
+                  "lat": "38.0316038",
+                  "geoAddress": "27 e main st, taylorsville, ky 40071, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-85.3446849, 38.0316038]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Taylor County Judicial Center",
+                  "addresses": "300 E. Main St., Campbellsville, KY 42718",
+                  "lon": "-85.3426138",
+                  "lat": "37.3412768",
+                  "geoAddress": "300 e main st, campbellsville, ky 42718, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-85.3426138, 37.3412768]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Todd County Court of Justice",
+                  "addresses": "204 W. Main St.,  Elkton, KY 42220",
+                  "lon": "-87.1554609",
+                  "lat": "36.8103878",
+                  "geoAddress": "204 w main st, elkton, ky 42220, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-87.1554609, 36.8103878]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Trigg County Justice Center",
+                  "addresses": "41 Main St.,  Cadiz, KY 42211",
+                  "lon": "-87.838518",
+                  "lat": "36.8609645",
+                  "geoAddress": "41 main st, cadiz, ky 42211, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-87.838518, 36.8609645]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Trimble County Courthouse",
+                  "addresses": "30 Highway 42 E.,  Bedford, KY 40006",
+                  "lon": "-85.496838",
+                  "lat": "38.436228",
+                  "geoAddress": "w hwy 42, kentucky, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-85.496838, 38.436228]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Union County Courthouse Annex",
+                  "addresses": "121 S. Morgan St.,  Morganfield, KY 42437",
+                  "lon": "-87.9169704",
+                  "lat": "37.6830556",
+                  "geoAddress": "121 s morgan st, morganfield, ky 42437, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-87.9169704, 37.6830556]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Warren County Justice Center",
+                  "addresses": "1001 Center St., Bowling Green, KY 42101-2184",
+                  "lon": "-86.4439545",
+                  "lat": "36.9944134",
+                  "geoAddress": "1001 center st, bowling green, ky 42101, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-86.4439545, 36.9944134]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Washington County Judicial Center",
+                  "addresses": "100 E. Main St., Springfield, KY 40069",
+                  "lon": "-85.2218607",
+                  "lat": "37.6847632",
+                  "geoAddress": "100 e main st, springfield, ky 40069, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-85.2218607, 37.6847632]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Wayne County Justice Center",
+                  "addresses": "100 W. Columbia Ave., Monticello, KY 42633",
+                  "lon": "-84.8471969",
+                  "lat": "36.8285826",
+                  "geoAddress": "100 columbia ave, monticello, ky 42633, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-84.8471969, 36.8285826]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Webster County Judicial Center",
+                  "addresses": "35 U.S. Highway 41A South,  Dixon, KY 42409",
+                  "lon": "-87.7335226",
+                  "lat": "37.4105243",
+                  "geoAddress": "35 u.s. hwy 41 alt s, providence, ky 42450, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-87.7335226, 37.4105243]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Whitley County Judicial Center",
+                  "addresses": "100 Main St.,  Williamsburg, KY 40769",
+                  "lon": "-84.1589924",
+                  "lat": "36.7437751",
+                  "geoAddress": "100 main st, williamsburg, ky 40769, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-84.1589924, 36.7437751]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Wolfe County Judicial Center",
+                  "addresses": "133 Main St.,  Campton, KY 41301-0296",
+                  "lon": "-83.5500061",
+                  "lat": "37.7340644",
+                  "geoAddress": "133 main st, campton, ky 41301, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-83.5500061, 37.7340644]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "courthouse": "Woodford County Courthouse Annex",
+                  "addresses": "130 Court St., Versailles, KY 40383",
+                  "lon": "-84.7306992",
+                  "lat": "38.0526344",
+                  "geoAddress": "130 court st, versailles, ky 40383, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-84.7306992, 38.0526344]
+            }
+      }]
+}

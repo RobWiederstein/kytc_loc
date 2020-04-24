@@ -1,0 +1,164 @@
+{
+      "type": "FeatureCollection",
+      "features": [{
+            "type": "Feature",
+            "properties": {
+                  "agency": "kytc",
+                  "street": "360 East 8th St.",
+                  "city": "Bowling Green",
+                  "state": "KY",
+                  "addresses": "360 East 8th St., Bowling Green, KY",
+                  "lon": "-86.4403971",
+                  "lat": "36.9953966",
+                  "geoAddress": "360 e 8th ave, bowling green, ky 42101, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-86.4403971, 36.9953966]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "agency": "kytc",
+                  "street": "2855 Jackson St.",
+                  "city": "Paducah",
+                  "state": "KY",
+                  "addresses": "2855 Jackson St., Paducah, KY",
+                  "lon": "-88.629864",
+                  "lat": "37.0681787",
+                  "geoAddress": "2855 jackson st, paducah, ky 42003, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-88.629864, 37.0681787]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "agency": "kytc",
+                  "street": "200 Mero St.",
+                  "city": "Frankfort",
+                  "state": "KY",
+                  "addresses": "200 Mero St., Frankfort, KY",
+                  "lon": "-84.8725912",
+                  "lat": "38.2014145",
+                  "geoAddress": "200 mero st, frankfort, ky 40601, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-84.8725912, 38.2014145]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "agency": "kytc",
+                  "street": "56 Federal Place",
+                  "city": "Madisonville",
+                  "state": "KY",
+                  "addresses": "56 Federal Place, Madisonville, KY",
+                  "lon": "-87.4973404",
+                  "lat": "37.3286832",
+                  "geoAddress": "56 federal st, madisonville, ky 42431, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-87.4973404, 37.3286832]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "agency": "kytc",
+                  "street": "650 North Main St.,",
+                  "city": "Somerset",
+                  "state": "KY",
+                  "addresses": "650 North Main St.,, Somerset, KY",
+                  "lon": "-84.6082518",
+                  "lat": "37.1001359",
+                  "geoAddress": "650 n main st, somerset, ky 42501, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-84.6082518, 37.1001359]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "agency": "kytc",
+                  "street": "121 East Second St.",
+                  "city": "Owensboro",
+                  "state": "KY",
+                  "addresses": "121 East Second St., Owensboro, KY",
+                  "lon": "-87.1102121",
+                  "lat": "37.7752474",
+                  "geoAddress": "121 e 2nd st, owensboro, ky 42303, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-87.1102121, 37.7752474]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "agency": "kytc",
+                  "street": "126 Bradley Ave.",
+                  "city": "Morehead",
+                  "state": "KY",
+                  "addresses": "126 Bradley Ave., Morehead, KY",
+                  "lon": "-83.4360487",
+                  "lat": "38.1788985",
+                  "geoAddress": "126 bradley ave, morehead, ky 40351, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-83.4360487, 38.1788985]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "agency": "kytc",
+                  "street": "2900 Louisa St.",
+                  "city": "Catlettsburg",
+                  "state": "KY",
+                  "addresses": "2900 Louisa St., Catlettsburg, KY",
+                  "lon": "-82.5987066",
+                  "lat": "38.4149948",
+                  "geoAddress": "2900 louisa rd, catlettsburg, ky 41129, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-82.5987066, 38.4149948]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "agency": "kytc",
+                  "street": "141 Leestown Center Way",
+                  "city": "Lexington",
+                  "state": "KY",
+                  "addresses": "141 Leestown Center Way, Lexington, KY",
+                  "lon": "-84.5331542",
+                  "lat": "38.0699976",
+                  "geoAddress": "141 leestown center way, lexington, ky 40511, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-84.5331542, 38.0699976]
+            }
+      }, {
+            "type": "Feature",
+            "properties": {
+                  "agency": "kytc",
+                  "street": "3345 Roger E Schupp St",
+                  "city": "Louisville",
+                  "state": "KY",
+                  "addresses": "3345 Roger E Schupp St, Louisville, KY",
+                  "lon": "-85.6587422",
+                  "lat": "38.2248442",
+                  "geoAddress": "3345 roger e schupp st, louisville, ky 40205, usa"
+            },
+            "geometry": {
+                  "type": "Point",
+                  "coordinates": [-85.6587422, 38.2248442]
+            }
+      }]
+}
